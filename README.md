@@ -5,8 +5,7 @@ Welcome to my professional portfolio! This site showcases my skills, projects, c
 ## 🌟 Live Demo
 
 **Check it out:**  
-[https://Patilaniruddh97.github.io/job-portfolio/](https://Patilaniruddh97.github.io/job-portfolio/)  
-*(replace `job-portfolio` with your repo name if different)*
+[https://Patilaniruddh97.github.io/aniruddha-portfolio/](https://Patilaniruddh97.github.io/aniruddha-portfolio/)  
 
 ## 📁 Project Structure
 
@@ -32,7 +31,7 @@ Welcome to my professional portfolio! This site showcases my skills, projects, c
 
 1. **Clone or Fork this repo:**
    ```bash
-   git clone https://github.com/Patilaniruddh97/job-portfolio.git
+   git clone https://github.com/Patilaniruddh97/aniruddha-portfolio.git
    ```
 2. **Replace assets:**  
    - Update `me.jpg` and `Aniruddha Resume.pdf` with your own.
@@ -40,7 +39,7 @@ Welcome to my professional portfolio! This site showcases my skills, projects, c
 3. **Enable GitHub Pages:**
    - Go to repo **Settings > Pages**
    - Set source to `main` branch, `/root` folder.
-   - View at `https://Patilaniruddh97.github.io/job-portfolio/`
+   - View at `https://Patilaniruddh97.github.io/aniruddha-portfolio/`
 4. **Cover Letter Generator:**  
    - To enable, add your Gemini API key in the script section of `index.html`.  
    - **Do NOT expose your API key in public repos!** Use server-side proxy for production.
